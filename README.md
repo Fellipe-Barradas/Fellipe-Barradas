@@ -1,9 +1,11 @@
 ### Olá! Meu nome é Luis Fellipe👋, saiba mais sobre mim!
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellipe-Barradas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipe-Barradas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellipe-Barradas&show&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipe-Barradas&show&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
